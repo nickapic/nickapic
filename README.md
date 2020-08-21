@@ -1,6 +1,6 @@
 #### Hi everyone, I'm Aniket - aka Nickapic 👋🏼
 
-<img src="https://tryhackme.com/badge/55965" alt="TryHackMe">
+<img src="http://tryhackme-badges.s3.amazonaws.com/nickapic.png" alt="TryHackMe">
 <img src="http://www.hackthebox.eu/badge/image/184004" alt="Hack The Box">
 
 
