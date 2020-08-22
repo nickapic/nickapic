@@ -1,6 +1,6 @@
 #### Hi everyone, I'm Aniket - aka Nickapic 👋🏼
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/nickapic.png" alt="TryHackMe">
+<img src="./nickapic.png" alt="TryHackMe">
 <img src="http://www.hackthebox.eu/badge/image/184004" alt="Hack The Box">
 
 
@@ -8,7 +8,7 @@
 
 - 🧐 I am currently working on the Elearn Security Certified Professional Penetration Tester Course and I'm eJPT certified.
 - 🤔 I love playing and participating in CTFs
-- 🎮 I love palying video games so if you wanna connect with me on steam and wanna play some time here it is []
+- 🎮 I love palying video games so if you wanna connect with me on Steam and wanna play some time here it is [Steam](https://steamcommunity.com/id/mrnickapic/)
 - 👾 2020 Goals : I wanna get the eCPPT, OSCP certifications and get better at CTFs and learn and explore the Information Secuirty Field even more
 
 ### Connect with me:
