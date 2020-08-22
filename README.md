@@ -11,6 +11,10 @@
 - 🎮 I love palying video games so if you wanna connect with me on Steam and wanna play some time here it is [Steam](https://steamcommunity.com/id/mrnickapic/)
 - 👾 2020 Goals : I wanna get the eCPPT, OSCP certifications and get better at CTFs and learn and explore the Information Secuirty Field even more
 
+[TryHackMe Profile](https://tryhackme.com/p/nickapic)
+[HacktheBox Profile](https://www.hackthebox.eu/home/users/profile/184004)
+[My notes about Ethical Hacking](https://www.notion.so/Ethical-Hacking-d7b12ee8bd954df6a3bcc335f5de26b7)
+
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/h0j3n) 
@@ -37,3 +41,7 @@
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br/>
+
+<img align="left" alt="Nickapic's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nickapic&show_icons=true&hide_border=true" />
