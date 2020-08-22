@@ -19,7 +19,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aniket-chauhan-09642536/)
 ![](https://img.shields.io/github/followers/nickapic?style=for-the-badge&logo=appveyor)
 
-<img src="./Images/nickapic.png" alt="TryHackMe">
+<img src="https://github.com/nickapic/nickapic/blob/master/Images/nickapic.png" alt="TryHackMe">
 <img src="http://www.hackthebox.eu/badge/image/184004" alt="Hack The Box">
 <br />
 
