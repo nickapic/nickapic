@@ -1,9 +1,5 @@
 #### Hi everyone, I'm Aniket - aka Nickapic 👋🏼
 
-<img src="./Images/nickapic.png" alt="TryHackMe">
-<img src="http://www.hackthebox.eu/badge/image/184004" alt="Hack The Box">
-
-
 ## I'm a Ethical Hacker, Web Developer and a Student! 👨🏽‍💻
 
 - 🧐 I am currently working on the Elearn Security Certified Professional Penetration Tester Course and I'm eJPT certified.
@@ -11,9 +7,11 @@
 - 🎮 I love palying video games so if you wanna connect with me on Steam and wanna play some time here it is [Steam](https://steamcommunity.com/id/mrnickapic/)
 - 👾 2020 Goals : I wanna get the eCPPT, OSCP certifications and get better at CTFs and learn and explore the Information Secuirty Field even more
 
-[TryHackMe Profile](https://tryhackme.com/p/nickapic)
-[HacktheBox Profile](https://www.hackthebox.eu/home/users/profile/184004)
-[My notes about Ethical Hacking](https://www.notion.so/Ethical-Hacking-d7b12ee8bd954df6a3bcc335f5de26b7)
+- 🤖[TryHackMe Profile](https://tryhackme.com/p/nickapic)
+- 😨[HacktheBox Profile](https://www.hackthebox.eu/home/users/profile/184004)
+- 🤗[My notes for Ethical Hacking](https://www.notion.so/Ethical-Hacking-d7b12ee8bd954df6a3bcc335f5de26b7)
+
+
 
 ### Connect with me:
 
@@ -21,6 +19,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aniket-chauhan-09642536/)
 ![](https://img.shields.io/github/followers/nickapic?style=for-the-badge&logo=appveyor)
 
+<img src="./Images/nickapic.png" alt="TryHackMe">
+<img src="http://www.hackthebox.eu/badge/image/184004" alt="Hack The Box">
 <br />
 
 ### Languages and Tools:
