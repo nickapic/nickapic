@@ -4,6 +4,7 @@
 
 - 🧐 I am currently working on the Elearn Security Certified Professional Penetration Tester Course and I'm eJPT certified.
 - 🤔 I love playing and participating in CTFs
+- 🦾 I have completed Dante Pro Labs and doing Throwback from Tryhackme now.
 - 🎮 I love palying video games so if you wanna connect with me on Steam and wanna play some time here it is [Steam](https://steamcommunity.com/id/mrnickapic/)
 - 👾 2020 Goals : I wanna get the eCPPT, OSCP certifications and get better at CTFs and learn and explore the Information Secuirty Field even more
 
