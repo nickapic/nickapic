@@ -2,11 +2,11 @@
 
 ## I'm a Ethical Hacker, Web Developer and a Student! 👨🏽‍💻
 
-- 🧐 I am currently working on the Elearn Security Certified Professional Penetration Tester Course and I'm eJPT certified.
+- 🧐 I am currently working on the Elearn Security Certified Professional Penetration Tester Course and I'm eJPT,eCPPT certified.
 - 🤔 I love playing and participating in CTFs
-- 🦾 I have completed Dante Pro Labs and Throwback from Tryhackme now.
+- 🦾 I have completed Dante Pro Labs and Throwback from Tryhackme and currently doing the Offshore Pro Labs.
 - 🎮 I love playing video games so if you wanna connect with me on Steam and wanna play some time here it is [Steam](https://steamcommunity.com/id/mrnickapic/)
-- 👾 2020 Goals : I wanna get the eCPPT, OSCP certifications and get better at CTFs and learn and explore the Information Security Field even more
+- 👾 2021 Goals : I wanna get the eCPTX, OSCP certifications and get better at CTFs and learn and explore the Information Security Field even more
 
 - 🤖[TryHackMe Profile](https://tryhackme.com/p/nickapic)
 - 😨[HacktheBox Profile](https://www.hackthebox.eu/home/users/profile/184004)
