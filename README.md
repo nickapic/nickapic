@@ -12,7 +12,7 @@
 - 😨[HacktheBox Profile](https://www.hackthebox.eu/home/users/profile/184004)
 - 🤗[My notes for Ethical Hacking](https://www.notion.so/Ethical-Hacking-d7b12ee8bd954df6a3bcc335f5de26b7)
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nickapic.nickapic&left_color=green&right_color=red)
 
 ### Connect with me:
 
