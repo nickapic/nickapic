@@ -14,6 +14,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nickapic.nickapic&left_color=green&right_color=red)
 
+If you want to support me you can do so here : https://ko-fi.com/nickapic
+
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aniketchauhan1) 
